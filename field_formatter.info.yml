@@ -1,0 +1,9 @@
+name: Field Formatter
+type: module
+description: Manipulate the text field’s values of Field Formatter.
+package: Custom Formatter
+dependencies:
+  - field
+core_version_requirement: ^9.4 || ^10
+project: 'field_formatter'
+datestamp: 1447852141

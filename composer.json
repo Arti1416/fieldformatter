@@ -1,0 +1,8 @@
+{
+  "name": "drupal/field_formatter",
+  "description": "Text Manipulation Field Formatter.",
+  "type": "drupal-module",
+  "require": {
+    "cocur/slugify": "^3.0"
+  }
+}
